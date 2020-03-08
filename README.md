@@ -1,4 +1,8 @@
-# recipepuppy
+# Recipe Puppy
+
+Vue application created for Noroff JS Frameworks MA 2
+
+[DEMO](https://rajohan.no/recipepuppy)
 
 ## Project setup
 ```
